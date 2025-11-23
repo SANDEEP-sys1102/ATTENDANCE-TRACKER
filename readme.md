@@ -2,7 +2,7 @@
 A simple and efficient command-line attendance management system built in Python.
 ## Features
 - Add, view, and delete students
-- Mark attendance day■wise
+- Mark attendance day-wise
 - Auto-save records in JSON
 - View attendance analytics with percentage and status
 ## File Structure
@@ -32,3 +32,4 @@ Displays:
 ## Author
 
 SANDEEP KUMAR GUPTA(25BAI10622)
+
